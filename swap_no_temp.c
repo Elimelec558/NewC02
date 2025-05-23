@@ -1,4 +1,5 @@
 #include <stdio.h>
+// Lire deux nombres et les inverser sans utiliser de variable temporaire.
 int main() {
     int a, b;
     // Lecture des valeurs.
